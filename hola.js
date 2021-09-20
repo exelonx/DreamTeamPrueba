@@ -1,0 +1,1 @@
+console.log("Hola, que bonita la vida, somos el mejor grupo :)")
